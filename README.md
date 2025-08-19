@@ -110,6 +110,7 @@ Feel free to contribute to this list!
 * [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) - A small toolset to create video loops and record them
 
 ### User Interfaces
+* [VL.Avalonia](https://github.com/bj-rn/VL.Avalonia) - Cross-platform .NET UI framework
 * [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) - Collection of widgets for easy UI prototyping
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
 * [VL.ImGui.Extensions](https://github.com/lasalillo/VL.ImGui.Extensions) - Collection of ImGui widgets & editors
