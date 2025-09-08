@@ -66,7 +66,6 @@ Feel free to contribute to this list!
 * [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
 * [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) - A collection of standard libraries for vvvv
 * [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
-* [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - A template for a new VL library
 
 ### Rendering
 * [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to render websites in Skia and Stride
@@ -267,6 +266,10 @@ Feel free to contribute to this list!
 * [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - Wrapper of the Telegram.Bot lib
 
 ## Other Resources
+
+### Templates
+* [New VL Project](https://github.com/threeeeight/newproject-vl) - A template for VL projects, set up for more complex and scalable projects with multiple collaborators.
+* [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - A template for a new VL library
 
 ### Tools
 * [Material Editors](https://forum.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
