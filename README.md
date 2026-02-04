@@ -228,6 +228,7 @@ Feel free to contribute to this list!
 #### Physical Computing
 * [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - Provides support for the Firmata protocol
 * [VL.Devices.Phidgets](https://github.com/phlegma/VL.Devices.Phidgets/) - Integration for Phidgets
+* [VL.IO.NFC](https://github.com/vvvv/VL.IO.NFC) - Near Field Communication
 
 #### Other Devices
 * [VL.Bunraku](https://github.com/baxtan/VL.Bunraku) -  Realtime visualisation, simulation and control of industrial robots 
